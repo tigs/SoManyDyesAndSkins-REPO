@@ -6,43 +6,43 @@
       "id": "helmet_skins",
       "version": "1.1",
       "path": "skyblock-lists/helmet_skins.json",
-      "sha256": "SHA256"
+      "sha256": "36da6e25b17bd4e5cf7f50e6767867ba836158e73a9de9768e436776181dede7"
     },
     {
       "id": "pet_skins",
       "version": "1.1",
       "path": "skyblock-lists/pet_skins.json",
-      "sha256": "SHA256"
+      "sha256": "b0369c8f5932605d421e58752c28176b3bb40772e200367d08cb3f9f93bf819b"
     },
     {
       "id": "helmets",
-      "version": "1.1,
+      "version": "1.1",
       "path": "skyblock-lists/helmets.json",
-      "sha256": "SHA256"
+      "sha256": "d1ab2342bf068f55094c1bf6609ff2ac383d6e7afd230643532260553ff98f53"
     },
     {
       "id": "pets",
       "version": "1.1",
       "path": "skyblock-lists/pets.json",
-      "sha256": "SHA256"
+      "sha256": "90f2fb15d9205785f831b4e0f665dc394178f4e2193a3b61dfee5e0bd24b6383"
     },
     {
       "id": "experimental_skins",
       "version": "1.1",
       "path": "experimental-lists/experimental_skins.json",
-      "sha256": "SHA256"
+      "sha256": "93f7ed00798fc54e27551d7eed82572868c33a3c1fd215cc7570cdd164828027"
     },
     {
       "id": "dyes",
       "version": "1.1",
       "path": "skyblock-lists/dyes.json",
-      "sha256": "SHA256"
+      "sha256": "d4fe96df55a3bfd9ae68152f5299c1b878daa0d515a4d0a1940398c7a5b4d094"
     },
     {
       "id": "experimental_dyes",
       "version": "1.1",
       "path": "experimental-lists/experimental_dyes.json",
-      "sha256": "SHA256"
+      "sha256": "0580c8e53e11db46df2b11d35ace4f1998b6b04cc4a85c2982557399f1e04a8f"
     }
   ]
 }
