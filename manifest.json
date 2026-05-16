@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "latestModVersion": "1.0.0",
+  "lists": [
+    {
+      "id": "helmet_skins",
+      "version": "1.1",
+      "path": "skyblock-lists/helmet_skins.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "pet_skins",
+      "version": "1.1",
+      "path": "skyblock-lists/pet_skins.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "helmets",
+      "version": "1.1,
+      "path": "skyblock-lists/helmets.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "pets",
+      "version": "1.1",
+      "path": "skyblock-lists/pets.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "experimental_skins",
+      "version": "1.1",
+      "path": "experimental-lists/experimental_skins.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "dyes",
+      "version": "1.1",
+      "path": "skyblock-lists/dyes.json",
+      "sha256": "SHA256"
+    },
+    {
+      "id": "experimental_dyes",
+      "version": "1.1",
+      "path": "experimental-lists/experimental_dyes.json",
+      "sha256": "SHA256"
+    }
+  ]
+}
